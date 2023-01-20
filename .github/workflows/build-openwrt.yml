@@ -34,7 +34,7 @@ env:
   TZ: Asia/Shanghai
 
 jobs:
-  test:
+ build:
     runs-on: ubuntu-latest
     timeout-minutes: 360 
 
